@@ -14,7 +14,7 @@ data/pokemon/evos_attacks contains information on evolution and level-up learnse
 
 The code is searcheable on Github. It contains all the updates to the game including changes to moves, learnsets, base stats, trainer parties, etc. You must be signed in to a Github account to search code. Here is a search tip: in the code repository, two words will often be separated by an underscore. Ie: "Sunny Day" is often written as "Sunny_day" in the repository.
 
-Shining Crystal Changelog:
+**Shining Crystal Changelog**:
 _________________________________________________________________________________________________________________
 
 All boss teams are updated, often with more challenging pokemon with stronger movesets.
