@@ -67,6 +67,8 @@ This game is incompatible with PKHex.
 
 I've designed this game for hardcore nuzlocking. Certain game components such as level caps, route encounters, and rare candy availability are built specifically with that in mind. This need not detract from non-nuzlocke gameplay.
 
+______________________________________________________________________________________________________
+
 Here are some of files that may be of particular interest:
 
 data/wild includes all wild encounter tables
