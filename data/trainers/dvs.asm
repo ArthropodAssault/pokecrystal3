@@ -3,12 +3,12 @@ TrainerClassDVs:
 	table_width 2, TrainerClassDVs
 	;  atk,def,spd,spc
 	dn  9, 10,  7,  7 ; FALKNER
-	dn  8,  8,  8,  8 ; WHITNEY
-	dn  9,  8,  8,  8 ; BUGSY
-	dn  9,  8,  8,  8 ; MORTY
-	dn  9,  8,  8,  8 ; PRYCE
+	dn 11, 10, 12, 14 ; WHITNEY
+	dn 12, 15, 13, 15 ; BUGSY
+	dn 15, 15, 15, 15 ; MORTY
+	dn 15, 15, 15, 15 ; PRYCE
 	dn 14, 13, 15, 15 ; JASMINE
-	dn 13, 13,  8,  8 ; CHUCK
+	dn 13, 13, 15, 15 ; CHUCK
 	dn 14, 13, 15, 15 ; CLAIR
 	dn 15, 15, 15, 15 ; RIVAL1
 	dn  9,  8,  8,  8 ; POKEMON_PROF
@@ -17,7 +17,7 @@ TrainerClassDVs:
 	dn 13, 14, 15, 15 ; BRUNO
 	dn 14, 14, 15, 15 ; KAREN
 	dn 13, 12, 15, 15 ; KOGA
-	dn 15, 15, 15, 15 ; CHAMPION
+	dn 14, 13, 15, 15 ; CHAMPION
 	dn 14, 15, 15, 15 ; BROCK
 	dn 14, 15, 15, 15 ; MISTY
 	dn 15, 13, 15, 15 ; LT_SURGE
@@ -27,7 +27,7 @@ TrainerClassDVs:
 	dn  9,  8,  8,  8 ; SCHOOLBOY
 	dn  9,  8, 15, 15 ; BIRD_KEEPER
 	dn  5,  8, 15, 15 ; LASS
-	dn  9,  8, 15, 15 ; JANINE
+	dn 15, 15, 15, 15 ; JANINE
 	dn 15, 15, 15, 15 ; COOLTRAINERM
 	dn 15, 15, 15, 15 ; COOLTRAINERF
 	dn  6,  9, 12,  8 ; BEAUTY
@@ -53,7 +53,7 @@ TrainerClassDVs:
 	dn  9,  8,  8,  8 ; FIREBREATHER
 	dn  9,  8,  8,  8 ; JUGGLER
 	dn  9,  8,  8,  8 ; BLACKBELT_T
-	dn 14, 14, 10, 12 ; EXECUTIVEM
+	dn 14, 14, 13, 12 ; EXECUTIVEM
 	dn  9,  8,  8,  8 ; PSYCHIC_T
 	dn  6, 10, 10,  8 ; PICNICKER
 	dn  9,  8,  8,  8 ; CAMPER
@@ -69,5 +69,5 @@ TrainerClassDVs:
 	dn 15, 13, 15, 15 ; BLUE
 	dn  9,  8,  8,  8 ; OFFICER
 	dn  7, 14, 10,  8 ; GRUNTF
-	dn  9,  8,  8,  8 ; MYSTICALMAN
+	dn 15, 15, 15, 15 ; MYSTICALMAN
 	assert_table_length NUM_TRAINER_CLASSES

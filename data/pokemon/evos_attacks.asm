@@ -3090,7 +3090,6 @@ SkarmoryEvosAttacks:
 	db 1, PECK
 	db 13, MUD_SLAP
 	db 16, WING_ATTACK
-	db 21, SWORDS_DANCE
 	db 27, DRILL_PECK
 	db 30, STEEL_WING
 	db 0 ; no more level-up moves

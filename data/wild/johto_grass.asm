@@ -5,11 +5,11 @@ JohtoGrassWildMons:
 	def_grass_wildmons SPROUT_TOWER_2F
 	db 2 percent, 2 percent, 2 percent ; encounter rates: morn/day/nite
 	; morn
-	db 4, RATTATA
-	db 4, SENTRET
-	db 5, SENTRET
-	db 3, RATTATA
-	db 6, RATTATA
+	db 4, EEVEE
+	db 4, EEVEE
+	db 5, EEVEE
+	db 3, EEVEE
+	db 6, EEVEE
 	db 5, CHARMANDER
 	db 5, CHARMANDER
 	; day
@@ -413,12 +413,12 @@ JohtoGrassWildMons:
 	db 5, CHARMANDER
 	db 10,CHARMANDER
 	; nite
-	db 5, UNOWN
-	db 5, UNOWN
-	db 5, UNOWN
-	db 5, UNOWN
-	db 5, UNOWN
-	db 5, UNOWN
+	db 5, EEVEE
+	db 5, GASTLY
+	db 5, EEVEE
+	db 5, GASTLY
+	db 5, EEVEE
+	db 5, GASTLY
 	db 5, UNOWN
 	end_grass_wildmons
 
@@ -1237,21 +1237,21 @@ JohtoGrassWildMons:
 	def_grass_wildmons ROUTE_29
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 3, SENTRET
+	db 3, EEVEE
 	db 3, MAREEP
 	db 4, GROWLITHE
-	db 4, SENTRET
+	db 4, EEVEE
 	db 2, MAREEP
-	db 3, SENTRET
-	db 3, SENTRET
+	db 3, EEVEE
+	db 3, EEVEE
 	; day
 	db 3, MAREEP
-	db 3, SENTRET
+	db 3, EEVEE
 	db 4, MAREEP
 	db 4, GROWLITHE
-	db 2, SENTRET
-	db 3, SENTRET
-	db 3, SENTRET
+	db 2, EEVEE
+	db 3, EEVEE
+	db 3, EEVEE
 	; nite
 	db 3, ZUBAT
 	db 3, HOUNDOUR
@@ -1265,13 +1265,13 @@ JohtoGrassWildMons:
 	def_grass_wildmons ROUTE_30
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
-	db 3, SENTRET
+	db 3, EEVEE
 	db 3, CATERPIE
 	db 4, MAREEP
 	db 4, MAREEP
 	db 2, CATERPIE
-	db 3, SENTRET
-	db 3, SENTRET
+	db 3, EEVEE
+	db 3, EEVEE
 	; day
 	db 4, CATERPIE
 	db 3, MAREEP
@@ -1323,7 +1323,7 @@ JohtoGrassWildMons:
 	; morn
 	db 6, TEDDIURSA
 	db 5, WOOPER
-	db 7, SENTRET
+	db 7, EEVEE
 	db 6, TEDDIURSA
 	db 7, GROWLITHE
 	db 7, SENTRET
@@ -1350,12 +1350,12 @@ JohtoGrassWildMons:
 	db 10 percent, 10 percent, 10 percent ; encounter rates: morn/day/nite
 	; morn
 	db 8, PHANPY
-	db 7, SENTRET
+	db 7, EEVEE
 	db 7, PHANPY
 	db 8, DODUO
 	db 7, DODUO
-	db 8, HOPPIP
-	db 7, HOPPIP
+	db 8, EEVEE
+	db 7, EEVEE
 	; day
 	db 8, PHANPY
 	db 7, PHANPY
