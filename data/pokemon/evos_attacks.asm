@@ -2108,7 +2108,6 @@ ChikoritaEvosAttacks:
 	db 1, GROWL
 	db 8, RAZOR_LEAF
 	db 12, REFLECT
-	db 15, POISONPOWDER
 	db 22, SYNTHESIS
 	db 25, GIGA_DRAIN
 	db 29, BODY_SLAM
@@ -2126,7 +2125,6 @@ BayleefEvosAttacks:
 	db 1, REFLECT
 	db 8, RAZOR_LEAF
 	db 12, REFLECT
-	db 15, POISONPOWDER
 	db 23, SYNTHESIS
 	db 25, GIGA_DRAIN
 	db 31, BODY_SLAM
@@ -2835,6 +2833,7 @@ GligarEvosAttacks:
 	db 1, POISON_STING
 	db 6, SAND_ATTACK
 	db 13, HARDEN
+	db 15, MAGNITUDE
 	db 20, QUICK_ATTACK
 	db 28, FAINT_ATTACK
 	db 36, SLASH
@@ -3294,12 +3293,10 @@ RaikouEvosAttacks:
 	db 1, BITE
 	db 1, THUNDERSHOCK
 	db 11, LEER
-	db 21, ROAR
-	db 31, QUICK_ATTACK
-	db 35, THUNDERSHOCK
+	db 21, SPARK
+	db 31, CRUNCH
+	db 35, REFLECT
 	db 41, THUNDER
-	db 51, REFLECT
-	db 55, CRUNCH
 	db 0 ; no more level-up moves
 
 EnteiEvosAttacks:
@@ -3307,12 +3304,11 @@ EnteiEvosAttacks:
 	db 1, BITE
 	db 1, LEER
 	db 11, EMBER
-	db 21, ROAR
+	db 21, FLAME_WHEEL
 	db 31, FIRE_SPIN
-	db 41, STOMP
-	db 51, FLAMETHROWER
-	db 61, SWAGGER
-	db 71, FIRE_BLAST
+	db 41, FLAMETHROWER
+	db 51, SWAGGER
+	db 61, FIRE_BLAST
 	db 0 ; no more level-up moves
 
 SuicuneEvosAttacks:

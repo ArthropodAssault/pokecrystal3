@@ -1503,7 +1503,7 @@ JohtoGrassWildMons:
 	db 20, MAGNEMITE
 	db 18, KANGASKHAN
 	db 19, CHARMELEON
-	db 18, SNORLAX
+	db 25, RAIKOU
 	; nite
 	db 19, MISDREAVUS
 	db 19, GIRAFARIG
@@ -1559,7 +1559,7 @@ JohtoGrassWildMons:
 	db 28, CHARMELEON
 	db 26, CROCONAW
 	db 27, CROCONAW
-	db 26, SKARMORY
+	db 30, RAIKOU
 	; nite
 	db 29, GOLBAT
 	db 28, SKARMORY
@@ -1587,7 +1587,7 @@ JohtoGrassWildMons:
 	db 27, SKARMORY
 	db 25, KANGASKHAN
 	db 26, KANGASKHAN
-	db 35, AMPHAROS
+	db 30, ENTEI
 	; nite
 	db 28, DRATINI
 	db 29, TEDDIURSA

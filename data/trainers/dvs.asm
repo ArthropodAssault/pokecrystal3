@@ -18,11 +18,11 @@ TrainerClassDVs:
 	dn 14, 14, 15, 15 ; KAREN
 	dn 13, 12, 15, 15 ; KOGA
 	dn 14, 13, 15, 15 ; CHAMPION
-	dn 14, 15, 15, 15 ; BROCK
+	dn 12, 12, 15, 15 ; BROCK
 	dn 14, 15, 15, 15 ; MISTY
 	dn 15, 13, 15, 15 ; LT_SURGE
 	dn  9,  8,  8,  8 ; SCIENTIST
-	dn 14, 13, 15, 15 ; ERIKA
+	dn 14, 14, 15, 15 ; ERIKA
 	dn  9,  8,  8,  8 ; YOUNGSTER
 	dn  9,  8,  8,  8 ; SCHOOLBOY
 	dn  9,  8, 15, 15 ; BIRD_KEEPER
